@@ -1,0 +1,29 @@
+table td{
+    padding: 8px 16px;
+    border-bottom: 1px solid #fff;
+    font-family: 'Courier New', monospace;
+}
+
+.imgChamp{
+    width: 60px;
+    border: 3px solid #fff;
+    background-color: #303e45 !important;
+}
+
+table tbody td:nth-child(2){
+    text-align: left;
+    white-space: nowrap;
+}
+
+table tbody td:nth-child(3){
+    text-align: center;
+    white-space: nowrap;
+}
+
+table tbody td:first{
+    padding-left:8px;
+}
+
+table tbody td:last{
+    padding-right: 8px;
+}

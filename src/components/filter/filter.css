@@ -1,0 +1,15 @@
+.filter{
+    min-height: 80px;
+    border-bottom: 1px solid #fff;
+    text-align: left;
+}
+
+.filterrow:nth-child(1){
+    background-color: transparent;
+    height: 52px;
+}
+
+.filterrow:nth-child(2){
+    background-color: transparent;
+    height: 52px;
+}
